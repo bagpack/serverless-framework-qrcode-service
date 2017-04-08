@@ -5,7 +5,7 @@ Sample for Binary Support using API Gateway REST API with Serverless Framework.
 ## Requirement
 
 - x64 architecture
-- [Dcoker](https://docs.docker.com/)
+- [Docker](https://docs.docker.com/)
 - [Serverless Framework](https://github.com/serverless/serverless)
 - python 2.7
 
